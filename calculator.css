@@ -1,6 +1,9 @@
 body {
   background-color: black;
 }
+p {
+  color: white;
+}
 button {
   margin-right: 5px;
   border-radius: 50%;
